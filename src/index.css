@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  font-family: 'Almarai', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  background-color: #F8F8F8 !important;
+}
+.title {
+  color: #224F61;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 64px;
+}
+.underline {
+  height: 1px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid #B45B35;
+}
+.btn {
+  color: #224F61;
+  border: #B45B35 1px solid !important;
+  box-shadow: none !important;
+}
+.btn:hover {
+  border: none;
+  background-color: #B45B35;
+}
+.img-item {
+  width: 300px !important;
+}
+.item-description {
+  color: #8C8C8C;
+  font-size: 16px;
+  line-height: 20px;
+}
+.item-title {
+  color: #555555;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 20px;
+}
+.card-color {
+  background-color: #F8F8F8;
+}
+.item-price {
+  color: #B45B35;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 20px;
+}
+.btn-search {
+  color: #B45B35;
+  border-radius: 3px solid #B45B35;
+  border-radius: 8px;
+  background-color: white;
+}
+.btn-search:hover {
+  color: white;
+  border-radius: 3px solid white;
+  background-color: #B45B35;
+  border-radius: 8px;
+}
+.brand-color {
+  color: #B45B35 !important;
+}
