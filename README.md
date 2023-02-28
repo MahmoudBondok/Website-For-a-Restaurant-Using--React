@@ -1,3 +1,3 @@
 # Website-For-a-Restaurant-Using--React
 
-# Your Site at live https://restaurant-z4wt.onrender.com
+# Your site is live at https://restaurant-z4wt.onrender.com
